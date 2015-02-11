@@ -152,16 +152,16 @@ The hackathon should last just under 10 hours. Not a lot of time, admittedly, bu
 
 #### Day 1 - 14th March
 
-9:00 AM: Hackathon Kick-off!
-9:00 – 9:20 AM: Idea Pitches
-9:30 – 9.50 AM: Team selection and announcements
-10:00 – 11:30 AM: Start hacking!
-11:30 – 11:50 AM: Snacking!
-12:00 – Teams continue hacking
-1:00 – 1:30 PM: Lunch
-1:40 – 5:30 PM: Teams continue hacking - with teams snacking at will
-5:40 PM: Hand in final presentations
-5:50 – 7:00 PM: Team presentations
-7:00 – 7:20 PM: Scoring period - Judges break off to make objective/ subjective rulings
-7:30 - 7:40 PM: Announce winning team and MVPs
-7:40 PM: Team bonding
+* 9:00 AM: Hackathon Kick-off!
+* 9:00 – 9:20 AM: Idea Pitches
+* 9:30 – 9.50 AM: Team selection and announcements
+* 10:00 – 11:30 AM: Start hacking!
+* 11:30 – 11:50 AM: Snacking!
+* 12:00 – Teams continue hacking
+* 1:00 – 1:30 PM: Lunch
+* 1:40 – 5:30 PM: Teams continue hacking - with teams snacking at will
+* 5:40 PM: Hand in final presentations
+* 5:50 – 7:00 PM: Team presentations
+* 7:00 – 7:20 PM: Scoring period - Judges break off to make objective/ subjective rulings
+* 7:30 - 7:40 PM: Announce winning team and MVPs
+* 7:40 PM: Team bonding
