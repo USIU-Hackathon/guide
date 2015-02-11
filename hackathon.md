@@ -38,7 +38,7 @@ A hackathon is an event, typically lasting several days, in which a large number
 
 
 - Have a _modest_ goal; a simple concept or app to build. Do one thing and do it well, concentrate on building a prototype, not a finished product!. Build something simple. A finished product is better than one that can't compile.
-- Get enough rest, stay hydrated and just relax. (relax, take it easy - [Mika](http://stackoverflow.com)(Mika)
+- Get enough rest, stay hydrated and just relax. Relax, take it easy, have fun! - [Mika](https://www.youtube.com/watch?v=RVmG_d3HKBA)
 - Set your tools - sublime-text, Netbeans, Jetbrains, VIM, Emacs ... etc your compilers and get your coding mojo.
 - Clean your comp, fine tune it - _just get it working_.
 
@@ -68,7 +68,7 @@ Multemedia and cabling/ reliable WiFi, microphone, speakers - sockets; and duck 
 - Pitching takes **3** mins max - **no slides, no powerpoint!**
 - Get to know members and form teams.
 - If you don't have a team, listen to the pitches and join a team with a problem solving idea that interested you.
-- Need help with your elevator pitch? [Scott](http://scottberkun.com/essays/38-how-to-pitch-an-idea/) (Scott)
+- Need help with your elevator pitch? [Scott](http://scottberkun.com/essays/38-how-to-pitch-an-idea/)
 
 
 
