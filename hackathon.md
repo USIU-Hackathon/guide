@@ -1,9 +1,9 @@
-#### What is a _hackathon_?
+##### What is a _hackathon_?
 
 A hackathon is an event, typically lasting several days, in which a large number of people meet to engage in _collaborative_ computer programming.
 
 
-#### Our goals?
+##### Our goals?
 
 - Building a developer community within campus.
 - Create a hackathon (tech events) culture at USIU.
@@ -13,14 +13,14 @@ A hackathon is an event, typically lasting several days, in which a large number
 - Product development: Create working products or services.
 
 
-#### What do I get?
+##### What do I get?
 
 - A **shirt** :)
 - Free Snacks and Drinks.
 - You get to meet other developers and techies.
 
 
-#### Hackathon Guidelines
+##### Hackathon Guidelines
 
 - Coding **must** take place during designated programming hours. No outside work allowed.
 - Each team gets **5** minutes to present their project.
@@ -34,7 +34,7 @@ A hackathon is an event, typically lasting several days, in which a large number
 - **No running torrents** within the network or unnecessarily deteriorating the network.
 
 
-#### How to survive a hackathon
+##### How to survive a hackathon
 
 
 - Have a _modest_ goal; a simple concept or app to build. Do one thing and do it well, concentrate on building a prototype, not a finished product!. Build something simple. A finished product is better than one that can't compile.
@@ -43,26 +43,26 @@ A hackathon is an event, typically lasting several days, in which a large number
 - Clean your comp, fine tune it - _just get it working_.
 
 
-#### Have an Idea? / Do I need to be a programmer?
+##### Have an Idea? / Do I need to be a programmer?
 
 Not really, the hackathon is open to techies and enthusiasts alike (programmers, devs).
 
 
-#### Venue?
+##### Venue?
 
 - School of Science Building - LT3.
 
 Multemedia and cabling/ reliable WiFi, microphone, speakers - sockets; and duck tape to ground the cables.
 
 
-#### Who will attend? (must be USIU student)
+##### Who will attend? (must be USIU student)
 
 - USIU students - hackers, ideaters a like
 - Techies
 - Tech Enthusiasts
 
 
-#### Pitching session (optional - to create teams)
+##### Pitching session (optional - to create teams)
 
 - Pitch your idea to the attendees.
 - Pitching takes **3** mins max - **no slides, no powerpoint!**
@@ -86,14 +86,14 @@ Everybody will be called back to the back into the main room, and the teams will
 
 With such an appealing grand prize on the line, we want to make sure that the judging criteria is as **transparent** and fair as possible. Given the time constraints and available resources, teams are not required to have a working demo for their product. Instead, everyone is given the breakdown of exactly what the scoring sheet will look like, so that they plan their presentations accordingly:
 
-#### 60% of the score is calculated from peer scores:
+##### 60% of the score is calculated from peer scores:
 
-#### 25% – Real World Application
+##### 25% – Real World Application
 
 - Does this product identify a real need, demand, or problem?
 - Does this product solve the identified need, demand, or problem?
 
-#### 25% – Concreteness
+##### 25% – Concreteness
 
 - Does the team identify clear customer segment(s)?
 - Does the team present the Unique Value Proposition(s) clearly and effectively?
@@ -101,7 +101,7 @@ With such an appealing grand prize on the line, we want to make sure that the ju
 - Does the team present a strategy for customer relationships and retention?
 - Overall, does the team thoroughly and persuasively present the product/service?
 
-#### 10% – Uniqueness
+##### 10% – Uniqueness
 
 - Is this idea a creative or new solution to a need or problem?
 - Does the product innovate on **AT LEAST ONE** of the following?
@@ -110,14 +110,14 @@ With such an appealing grand prize on the line, we want to make sure that the ju
 (c) user interactions
 (d) technical solutions
 
-#### 40% of the score is calculated from our two guests’ scores:
+##### 40% of the score is calculated from our two guests’ scores:
 
-#### 20% – Possibility and Feasibility
+##### 20% – Possibility and Feasibility
 
 - Is it possible to create a Minimum Viable Product (MVP) within 3 months?
 - Is it a stand alone product that can be built with our own resources? Or does it require other contributing partners to complete the product?
 
-#### 20% – Teamwork
+##### 20% – Teamwork
 
 - Did each team member participate?
 - Does the team clearly demonstrate each member’s roles and responsibilities (R&R)?
