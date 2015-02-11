@@ -16,7 +16,7 @@ A hackathon is an event, typically lasting several days, in which a large number
 #### What do I get?
 
 - A **shirt** :)
-- Snacks and Drinks.
+- Free Snacks and Drinks.
 - You get to meet other developers and techies.
 
 
@@ -26,27 +26,21 @@ A hackathon is an event, typically lasting several days, in which a large number
 - Each team gets **5** minutes to present their project.
 - Each project must be solving a problem identified in any area.
 - **Bring your own device** (BYOD) laptop, tablet, testing device.
-- We encourage teams to be composed of two to five people - you need a good reason to be work alone (optional).
+- We encourage teams to be composed of _two to five people_ - you need a good reason to be work alone (**optional**).
 - If and when voting occurs, each team must cast votes for **ANOTHER** team. No self-voting allowed! (for the audience choice award).
-- Upon judging, no complaints can be made whatsoever: there choice is final.There will howerver be an audience choice.
-- Participation awards - recognition on site with products.
-- Short demo and presentation, **5 slides max, 5 mins max**. Master pitching.
-- No running torrents within the network or unnecessarily deteriorating the network.
+- Upon judging, no complaints can be made whatsoever: there choice is final.There will however be an audience choice.
+- Participation awards - recognition on the IT club website for respective teams.
+- Short demo and presentation, **5 slides max, 5 mins max**. Sharpen your elevator pitching.
+- **No running torrents** within the network or unnecessarily deteriorating the network.
 
 
 #### How to survive a hackathon
 
 
 - Have a _modest_ goal; a simple concept or app to build. Do one thing and do it well, concentrate on building a prototype, not a finished product!. Build something simple. A finished product is better than one that can't compile.
-- Get enough rest, stay hydrated and just relax. (relax, take it easy - [Mika]: http://youtube.com/mika "Mika's Song"
+- Get enough rest, stay hydrated and just relax. (relax, take it easy - [Mika]: http://youtube.com/mika "Mika"
 - Set your tools - sublime-text, Netbeans, Jetbrains, VIM, Emacs ... etc your compilers and get your coding mojo.
-- Clean your comp, fine tune it - make it fast.
-
-
-#### Expectations
-
-
-To get involved more in the tech community
+- Clean your comp, fine tune it - _just get it working_.
 
 
 #### Have an Idea? / Do I need to be a programmer?
@@ -65,6 +59,7 @@ Multemedia and cabling/ reliable WiFi, microphone, speakers - sockets; and duck 
 
 - USIU students - hackers, ideaters a like
 - Techies
+- Tech Enthusiasts
 
 
 #### Pitching session (optional - to create teams)
@@ -78,9 +73,9 @@ Multemedia and cabling/ reliable WiFi, microphone, speakers - sockets; and duck 
 
 #### Demos
 
-Get the judges ready, call everybody back into the main room, and get ready for teams to show off their work.
+Everybody will be called back to the back into the main room, and the teams will get ready to show off their work.
 
-- Each team will receive between three and five minutes to describe their problem, how they intended to solve it, and demo what they come up with. It’s a hard limit, and teams will be cut off if they go over the stipulated time.
+- Each team will receive between three and five minutes to describe their problem, how they intend to solve it, and demo what they come up with. It’s a hard limit, and teams will be cut off if they go over the stipulated time.
 - Q&A's are allowed after each teams presentation (or only allow the judges to ask questions if the time available is not be adequate)
 
 **Keep things moving**: Part of the competition is being able to concisely describe what you did.
@@ -109,7 +104,7 @@ With such an appealing grand prize on the line, we want to make sure that the ju
 #### 10% – Uniqueness
 
 - Is this idea a creative or new solution to a need or problem?
-- Does the product innovate on AT LEAST ONE of the following?
+- Does the product innovate on **AT LEAST ONE** of the following?
 (a) features
 (b) design
 (c) user interactions
@@ -157,16 +152,16 @@ The hackathon should last just under 10 hours. Not a lot of time, admittedly, bu
 
 #### Day 1 - 14th March
 
-8:00 AM: Hackathon Kick-off!
-8:00 – 8:20 AM: Idea Pitches
-8:30 – 8.50 AM: Team selection and announcements
-9:00 – 10:00 AM: Start hacking!
+9:00 AM: Hackathon Kick-off!
+9:00 – 9:20 AM: Idea Pitches
+9:30 – 9.50 AM: Team selection and announcements
+10:00 – 11:30 AM: Start hacking!
 11:30 – 11:50 AM: Snacking!
 12:00 – Teams continue hacking
 1:00 – 1:30 PM: Lunch
-1:40 – 4:30 PM: Teams continue hacking - with teams snacking at will
-4:40 PM: Hand in final presentations
-4:50 – 6:00 PM: Team presentations
-6:00 – 6:20 PM: Scoring period - Judges break off to make objective/ subjective rulings
-6:30 - 6:40 PM: Announce winning team and MVPs
-6:40 PM: Team bonding
+1:40 – 5:30 PM: Teams continue hacking - with teams snacking at will
+5:40 PM: Hand in final presentations
+5:50 – 7:00 PM: Team presentations
+7:00 – 7:20 PM: Scoring period - Judges break off to make objective/ subjective rulings
+7:30 - 7:40 PM: Announce winning team and MVPs
+7:40 PM: Team bonding
