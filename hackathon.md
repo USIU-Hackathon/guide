@@ -6,7 +6,7 @@ A hackathon is an event, typically lasting several days, in which a large number
 #### Our goals?
 
 - Building a developer community within campus.
-- Create a hackathon (tech events) culture at the USIU.
+- Create a hackathon (tech events) culture at USIU.
 - _Mentor_ younger hackers; mentor/ mentee program.
 - Build teams/ team building: Get our team to work with others that they may not regularly work with.
 - Creative output: Give everyone the opportunity to get away from their desks and daily tasks to squeeze out their creative juices.
@@ -57,7 +57,8 @@ Not really, the hackathon is open to techies and enthusiasts alike (programmers,
 #### Venue?
 
 - School of Science Building - LT3.
-- cabling/ reliable WiFi, microphone, speakers - sockets.
+
+Multemedia and cabling/ reliable WiFi, microphone, speakers - sockets; and duck tape to ground the cables.
 
 
 #### Who will attend? (must be USIU student)
@@ -79,9 +80,10 @@ Not really, the hackathon is open to techies and enthusiasts alike (programmers,
 
 Get the judges ready, call everybody back into the main room, and get ready for teams to show off their work.
 
-- Each team should receive between three and five minutes to describe their problem, how they intended to solve it, and demo what they came up with. Make sure teams know that it’s a hard limit, and don’t be afraid to cut off teams that go over the stipulated time.
-- It’s up to you whether or not to allow Q&A, which tends to consume a lot of time. For larger events, it’s often better to ask people to save questions for later, or only allow the judges to ask questions.
-- Keep things moving. Part of the competition is being able to concisely describe what you did.
+- Each team will receive between three and five minutes to describe their problem, how they intended to solve it, and demo what they come up with. It’s a hard limit, and teams will be cut off if they go over the stipulated time.
+- Q&A's are allowed after each teams presentation (or only allow the judges to ask questions if the time available is not be adequate)
+
+**Keep things moving**: Part of the competition is being able to concisely describe what you did.
 
 
 #### Judging criteria/ Scoring
@@ -129,6 +131,19 @@ With such an appealing grand prize on the line, we want to make sure that the ju
 #### Feedback
 
 Feedback? - collection of feedback from the attendees. (just before the judges announce the winning team)
+
+- On a scale of 1 to 10, how much did you enjoy the USIU hackathon?
+- Would you like to participate in another USIU hackathon in the future?
+- Is there anything you didn’t like about the USIU hackathon?
+- Is there anything you liked about the USIU hackathon?
+- What would you like to _improve_ about the USIU hackathon in the future?
+
+
+#### Metrics
+
+- How many teams had finished products?
+- Demographics of attendees? (age, country, gender)
+- Attendee satisfaction? Feedback forms
 
 
 #### Post-Event Follow Up
