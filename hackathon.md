@@ -3,7 +3,7 @@
 A hackathon is an event, typically lasting several days, in which a large number of people meet to engage in _collaborative_ computer programming.
 
 
-##### Our goals?
+##### Our goals for this hackathon?
 
 - Building a developer community within campus.
 - Create a hackathon (tech events) culture at USIU.
@@ -16,8 +16,9 @@ A hackathon is an event, typically lasting several days, in which a large number
 ##### What do I get?
 
 - A **shirt** :)
-- Free Snacks and Drinks.
+- Snacks and Drinks throughout the event.
 - You get to meet other developers and techies.
+- Be part of building a new community.
 
 
 ##### Hackathon Guidelines
@@ -30,8 +31,8 @@ A hackathon is an event, typically lasting several days, in which a large number
 - If and when voting occurs, each team must cast votes for **ANOTHER** team. No self-voting allowed! (for the audience choice award).
 - Upon judging, no complaints can be made whatsoever: there choice is final.There will however be an audience choice.
 - Participation awards - recognition on the IT club website for respective teams.
-- Short demo and presentation, **5 slides max, 5 mins max**. Sharpen your elevator pitching.
-- **No running torrents** within the network or unnecessarily deteriorating the network.
+- Short demo and presentation, **5 slides max, 5 mins max**. Sharpen that elevator pitch.
+- **No running torrents** within the network or unnecessarily deteriorating the network (Looking at you IDM users!).
 
 
 ##### How to survive a hackathon
@@ -52,12 +53,13 @@ Not really, the hackathon is open to techies and enthusiasts alike (programmers,
 
 - School of Science Building - LT3.
 
-Multemedia and cabling/ reliable WiFi, microphone, speakers - sockets; and duck tape to ground the cables.
+The room has all the tools for a successful hackathon, reliable WiFi, microphone, speakers - sockets.
 
 
 ##### Who will attend? (must be USIU student)
 
-- USIU students - hackers, ideaters a like
+USIU students who are: 
+- Hackers and ideaters a like
 - Techies
 - Tech Enthusiasts
 
@@ -85,7 +87,7 @@ Everybody will be called back to the back into the main room, and the teams will
 #### Judging criteria/ Scoring
 
 
-With such an appealing grand prize on the line, we want to make sure that the judging criteria is as **transparent** and fair as possible. Given the time constraints and available resources, teams are not required to have a working demo for their product. Instead, everyone is given the breakdown of exactly what the scoring sheet will look like, so that they plan their presentations accordingly:
+With such an appealing grand prize on the line, we want to make sure that the judging criteria is as **transparent** and fair as possible. Given the time constraints and available resources, teams are not required to have a fully functioning demo of their product. Instead, everyone is given the breakdown of exactly what the scoring sheet will look like, so that they plan their presentations accordingly:
 
 ##### 60% of the score is calculated from peer scores:
 
