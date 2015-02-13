@@ -31,14 +31,12 @@ A hackathon is an event, typically lasting several days, in which a large number
 - If and when voting occurs, each team must cast votes for **ANOTHER** team. No self-voting allowed! (for the audience choice award).
 - Upon judging, no complaints can be made whatsoever: there choice is final.There will however be an audience choice.
 - Participation awards - recognition on the IT club website for respective teams.
-<<<<<<< HEAD
 - Short demo and presentation, **5 slides max, 5 mins max**. Sharpen your elevator pitching.
 - **No running torrents** within the network or unnecessarily deteriorating the network.
 - For those running hacking demos, be sure to get **permission** before penetrating a system or setup a virtual environment for your tests.
-=======
 - Short demo and presentation, **5 slides max, 5 mins max**. Sharpen that elevator pitch.
 - **No running torrents** within the network or unnecessarily deteriorating the network (Looking at you IDM users!).
->>>>>>> fa2dcecc46072ab59dc496ea510b178a7c9dc546
+
 
 
 ##### How to survive a hackathon
