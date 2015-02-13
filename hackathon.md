@@ -32,6 +32,7 @@ A hackathon is an event, typically lasting several days, in which a large number
 - Participation awards - recognition on the IT club website for respective teams.
 - Short demo and presentation, **5 slides max, 5 mins max**. Sharpen your elevator pitching.
 - **No running torrents** within the network or unnecessarily deteriorating the network.
+- For those running hacking demos, be sure to get **permission** before penetrating a system or setup a virtual environment for your tests.
 
 
 ##### How to survive a hackathon
