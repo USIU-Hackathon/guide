@@ -21,6 +21,22 @@ A hackathon is an event, typically lasting several days, in which a large number
 - Be part of building a new community.
 
 
+##### Do I have to pre-organize a team?
+
+No. We can try to help you find one at the event.
+
+
+##### Why would I want to go to a Hackathon?
+
+**Because you want to**: Hone your skills, connect with other developers that are passionate about building good software, learn about tools and new dev patterns, demonstrate your skills... and have a chance at wining cool prizes!
+
+
+##### Hack? I'm a developer, not a security guy!
+
+Relax. In the programming world, hacker means:
+"A person who enjoys exploring the details of programmable systems and stretching their capabilities, as opposed to most users, who prefer to learn only the minimum necessary.
+
+
 ##### Hackathon Guidelines
 
 - Coding **must** take place during designated programming hours. No outside work allowed.
@@ -46,6 +62,11 @@ A hackathon is an event, typically lasting several days, in which a large number
 - Get enough rest, stay hydrated and just relax. Relax, take it easy, have fun! - [Mika](https://www.youtube.com/watch?v=RVmG_d3HKBA)
 - Set your tools - sublime-text, Netbeans, Jetbrains, VIM, Emacs ... etc your compilers and get your coding mojo.
 - Clean your comp, fine tune it - _just get it working_.
+
+
+#### I’m not a student, so how can I get involved?
+
+Unfortunately, we can’t allow you to participate in the event or be on site during hacking. If you’re looking to mentor (i.e. someone with *technical skills* who’d be willing to help out participants during the weekend), you should reach out to us at **usiuhackathon@gmail.com**. Otherwise, you can see the finished products at the demos(see the schedule below).
 
 
 ##### Have an Idea? / Do I need to be a programmer?
