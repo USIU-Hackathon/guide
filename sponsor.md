@@ -1,25 +1,7 @@
-#####Ideas - Sponsorship document
+#### _SPONSORS_
 
-Who are we?
-Why sponsor?
-
-_SPONSORS_
-The companies that make this possible
-
-Our goal?
-The ideal sponsor?
-Why Sponsor Us?
-How can you Sponsor?
-Prize Winner? - after judging - sponsor money
-
-Sponsor Snacks - monetary?
-Send company swag - shirts, badges, tools, IBM water bottles
-Branding - T-shirts
-Digital oCean - server - sponsor, Github, IBM, RethinkDB
-
-Sponsor documents
-Trello - Sponsor Info
-Github Student Dev Pack
+The companies that make this possible.
+Digital Ocean, Github-Education, IBM, RethinkDB
 
 
 #### How is the USIU-Hackathon run?
@@ -88,4 +70,22 @@ We’ve found that sponsors get the most out of our hackathon when they:
 - Bring company engineers and _mentors_. Being a mentor at our hackathon is a great way to interact with the participants, provide help with company APIs or other technologies, and further establish company rapport and brand recognition
 
 - Send company swag (t-shirts, laptop stickers, water bottles, cards, pens, etc.) for participants, which is an easy way to build company brand recognition.
+
+
+####Interested?
+
+Please contact us at **usiuhackathon@gmail.com**. If these sponsorship levels are not suitable, please contact us with information on what we can do for you! All sponsorships will be discussed in more detail. 
+
+**Our Wish List:**
+
+If you **can't contribute financially**, that's not a problem! We'd still love to have your support. We've listed some alternatives below that will allow you to play a major role in making USIU-Hackathon happen:
+
+Goodies: Hackers will be at it for 14 hours, and that takes loads of caffeine and snacks. If you're willing to provide snacks for the event (especially late evening bites), we'll present them in a way that emphasizes your sponsorship. (e.g."_Lunch Pizza presented by Github!_")
+
+Branded T-shirts: easy way to build company brand recognition, and keep the devs happy.
+
+
+#### Any Questions?
+
+Reach out to us at any time, day or night.
 
